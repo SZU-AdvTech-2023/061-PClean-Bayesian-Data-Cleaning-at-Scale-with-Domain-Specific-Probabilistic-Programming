@@ -1,0 +1,6 @@
+@article{REPO061,
+    author = "Lew, Alexander K and Agrawal, Monica and Sontag, David and Mansinghka, Vikash K",
+    journal = "arXiv preprint arXiv:2007.11838",
+    title = "{PClean: Bayesian Data Cleaning at Scale with Domain-Specific Probabilistic Programming}",
+    year = "2020"
+}
